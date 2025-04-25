@@ -4,10 +4,16 @@
 a Telegram bot for sending flash transactions to Coinbase Wallet  
 *by Prime Tools*  
 [@primetoolsflash_bot](https://primetools.plutopulseio.com/github-flasher-bot)  
+## Youtube [Video](https://primetools.plutopulseio.com/github-youtube-flasher-video) Demo
 
-🎟️1 credit = $1k Flash.  
+***
 
-### Use of commands:  
+   
+🎟 **1 CREDIT = $1K FLASH.**  
+🔑 Get your keys [HERE](https://primetools.plutopulseio.com/github-flasher-keys)  
+🤖 Use the [BOT](https://primetools.plutopulseio.com/github-flasher-bot) to send the flash  
+
+## Use of commands:  
 ```
 /start  
   -starts the bot and displays the start message.  
@@ -52,6 +58,6 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 - See the transaction arrive in the recieving wallet
 <hr>
 
-🎟 1 CREDIT = $1K+ FLASH  
+🎟 **1 CREDIT = $1K FLASH.**    
 🔑 Get keys [HERE](https://primetools.plutopulseio.com/github-flasher-keys)  
 🤖 Use the [BOT](https://primetools.plutopulseio.com/github-flasher-bot) to send the flash  

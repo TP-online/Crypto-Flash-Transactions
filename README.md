@@ -50,8 +50,15 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 *(Even though our bot fully confirms the transaction, the exchange doesn't contain the bug that is needed for this exploit. Only Coinbase Wallet)*
   
 <hr>
-  
-**Here's a [VIDEO](https://primetools.plutopulseio.com/github-youtube-flasher-video) of the whole process;**  
+          
+# **Here's a [VIDEO](https://primetools.plutopulseio.com/github-youtube-flasher-video) of the whole process;**  
+
+
+      
+https://github.com/user-attachments/assets/99972df4-7282-4b90-b02a-29357ba899ef
+
+
+
 - Getting the key for the bot  
 - Using the bot to redeem your key for a credit  
 - Using the bot to send the flash transaction  

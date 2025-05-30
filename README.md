@@ -27,8 +27,10 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 /send <coinbase wallet ETH address>   
   -sends your flash.  
 ```
+> **UPDATE:**  
+> Since the bot has been updated, you no longer have to use the above commands. Although they still work, we now use what's called an inline-keyboard which displays functional buttons you can select instead of typing commands.
   
-#### Most likely you will want to send smaller/more precise amounts to your prank victims. In this case, first redeem your credit and send the flash to your own Coinbase Wallet, then from there send smaller/precise amounts out to your pranking victims 😉 
+### Most likely you will want to send smaller/more precise amounts to your prank victims. In this case, first redeem your credit and send the flash to your own Coinbase Wallet, then from there send smaller/precise amounts out to your pranking victims 😉 
 ###### (FYI you will need bnb also in your wallet to pay the gas fees every time you want to send)  
 
 <hr>  
@@ -50,15 +52,18 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 *(Even though our bot fully confirms the transaction, the exchange doesn't contain the bug that is needed for this exploit. Only Coinbase Wallet)*
   
 <hr>
-          
-# **Here's a [VIDEO](https://primetools.plutopulseio.com/github-youtube-flasher-video) of the whole process;**  
-
+         
 
       
 https://github.com/user-attachments/assets/99972df4-7282-4b90-b02a-29357ba899ef
 
 
+## Here is a video of the updated bot. Sorry for the video quality, use the link below to see a HQ version on YouTube👇🏻  
 
+https://github.com/user-attachments/assets/ae439b0c-ae1b-48a8-a665-02ff5ddeec19
+
+
+# **Here's the [VIDEO](https://primetools.plutopulseio.com/github-youtube-flasher-video) of the updated bot running through the whole process:**  
 - Getting the key for the bot  
 - Using the bot to redeem your key for a credit  
 - Using the bot to send the flash transaction  

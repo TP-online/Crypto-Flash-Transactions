@@ -1,10 +1,9 @@
 ![coinbse_wallet_bot](https://github.com/user-attachments/assets/14b03426-8e30-4adc-93bf-a8c71210e173)
-# Flash Transaction Bot - Ethereum Meta Method  
+# Flash Transaction Bot - Ethereum Mainnet Meta Method  
 
 a Telegram bot for sending flash transactions to Coinbase Wallet  
 *by Prime Tools*  
 [@primetoolsflash_bot](https://primetools.plutopulseio.com/github-flasher-bot)  
-## Youtube [Video](https://primetools.plutopulseio.com/github-youtube-flasher-video) Demo
 
 ***
 
@@ -12,6 +11,9 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 🎟 **1 CREDIT = $1K FLASH.**  
 🔑 Get your keys [HERE](https://primetools.plutopulseio.com/github-flasher-keys)  
 🤖 Use the [BOT](https://primetools.plutopulseio.com/github-flasher-bot) to send the flash  
+  
+🎬 YouTube [Video](https://primetools.plutopulseio.com/github-youtube-flasher-video) Demo
+
 
 ## Use of commands:  
 ```
@@ -28,7 +30,7 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
   -sends your flash.  
 ```
 > **UPDATE:**  
-> Since the bot has been updated, you no longer have to use the above commands. Although they still work, we now use what's called an inline-keyboard which displays functional buttons you can select instead of typing commands.
+> Since the bot has been updated, you no longer have to use the above commands. Although they still work, we now use what's called an inline-keyboard which displays functional buttons you can select instead of typing commands. Just to improve the user experience.
   
 ### Most likely you will want to send smaller/more precise amounts to your prank victims. In this case, first redeem your credit and send the flash to your own Coinbase Wallet, then from there send smaller/precise amounts out to your pranking victims 😉 
 ###### (FYI you will need bnb also in your wallet to pay the gas fees every time you want to send)  
@@ -52,9 +54,17 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 *(Even though our bot fully confirms the transaction, the exchange doesn't contain the bug that is needed for this exploit. Only Coinbase Wallet)*
   
 <hr>
-         
 
-      
+
+>## Each credit is good for a $1k flash, but right now for the grand opening we are adding a random bonus to each transaction. Some people have gotten as high as $4k for 1 credit.  
+
+   
+       
+*Check our Vouches Channel to see recent hits. Some of our clients have been getting some decent sized hits with it!*  
+***coming soon: USDT Flashes***
+
+   
+           
 https://github.com/user-attachments/assets/99972df4-7282-4b90-b02a-29357ba899ef
 
 

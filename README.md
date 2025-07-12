@@ -67,8 +67,8 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
            
 https://github.com/user-attachments/assets/99972df4-7282-4b90-b02a-29357ba899ef
 
-
-## Here is a video of the updated bot. Sorry for the video quality, use the link below to see a HQ version on YouTube👇🏻  
+## Above is an older version of the bot☝🏻 Outdated now, but the commands still all work the same. Just lacking GUI update that the lower video has👇🏻
+## Below is a video of the updated bot👇🏻 Sorry for the video quality, use the link below it to see a HQ version on YouTube👇🏻  
 
 https://github.com/user-attachments/assets/ae439b0c-ae1b-48a8-a665-02ff5ddeec19
 

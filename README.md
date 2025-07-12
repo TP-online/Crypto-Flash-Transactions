@@ -83,3 +83,7 @@ https://github.com/user-attachments/assets/ae439b0c-ae1b-48a8-a665-02ff5ddeec19
 🎟 **1 CREDIT = $1K FLASH.**    
 🔑 Get keys [HERE](https://primetools.plutopulseio.com/github-flasher-keys)  
 🤖 Use the [BOT](https://primetools.plutopulseio.com/github-flasher-bot) to send the flash  
+
+
+### Here are a couple pics taken from our vouches channel. this is only a small fraction of what's there, so make sure you go check it out!
+[](https://imgbox.com/0nfbsYvT.png)

@@ -42,8 +42,8 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 *(If you send to Exodus Wallet for example, it will show as $0.00 value)*  
 
 ### **Q ∙ How long before the transaction disappears?**  
-**A ∙** Never. Unlike the original flash transaction which never fully confirms and after a period of time disappears from the recieving wallet. Transactions sent from our bot will be fully confirmed on the blockchain, and will stay in the recieving wallet until the user attempts to send the coins to another wallet.  
-*(It's important to note that the Ethereum variant being sent is highly volatile and the value will dramatically increase or decrease with market trends)*  
+**A ∙** Never. Unlike the original flash transaction, which never fully confirms and after a period of time, disappears from the recieving wallet. Transactions sent from our bot will be fully confirmed on the blockchain, and will stay in the recieving wallet until the user attempts to send the coins to another wallet.  
+*(It's important to note that the Ethereum variant being sent is highly volatile and the value can dramatically increase or decrease with market trends)*  
 
 ### **Q ∙ Can I just use the bot to send straight to the person I'm pranking?**  
 **A ∙** Yes and No. You absolutely can send straight from our bot to your victims, but most people will want to send a smaller/more precise amount to their vic.  

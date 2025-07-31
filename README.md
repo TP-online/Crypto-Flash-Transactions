@@ -12,7 +12,7 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 🔑 Get your keys [HERE](https://primetools.plutopulseio.com/github-flasher-keys)  
 🤖 Use the [BOT](https://primetools.plutopulseio.com/github-flasher-bot) to send the flash  
   
-🎬 YouTube [Video](https://primetools.plutopulseio.com/github-youtube-flasher-video) Demo
+🎬 YouTube [Video](https://primetools.plutopulseio.com/github-youtube-flasher-video) Demo 
 
 
 ## Use of commands:  

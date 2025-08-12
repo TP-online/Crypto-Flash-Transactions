@@ -1,4 +1,4 @@
-![welcome](https://github.com/user-attachments/assets/4261c27c-cdab-4059-a9c3-fc2c26c5ad43)
+![welcome-new](https://github.com/user-attachments/assets/063d2157-d346-47b5-aadd-a2e4cd258e06)
 # Flash Transaction Bot - Ethereum Meta Mainnet Method  
 
 a Telegram bot for sending flash transactions to Coinbase Wallet  

@@ -1,5 +1,6 @@
-![welcome-new](https://github.com/user-attachments/assets/063d2157-d346-47b5-aadd-a2e4cd258e06)
+![](https://github.com/user-attachments/assets/063d2157-d346-47b5-aadd-a2e4cd258e06)
 # Flash Transaction Bot - Ethereum Meta Mainnet Method  
+[![Static Badge](https://img.shields.io/badge/Tools-darkblue?style=plastic&logo=prettier&logoColor=white&label=Prime)](https://primetools.world/products)
 
 a Telegram bot for sending flash transactions to Coinbase Wallet  
 *by Prime Tools*  

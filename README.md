@@ -2,7 +2,7 @@
 # Flash Transaction Bot - Ethereum Meta Mainnet Method  
 [![Static Badge](https://img.shields.io/badge/Tools-darkblue?style=plastic&logo=prettier&logoColor=white&label=Prime)](https://primetools.world/products)
 
-a Telegram bot for sending flash transactions to Coinbase Wallet  
+a Telegram bot for sending flash transactions to ~~Coinbase Wallet~~ now renamed: **Base Wallet**  
 *by Prime Tools*  
 
 [@cbwalletflash_bot](https://t.me/cbwalletflash_bot)  
@@ -40,7 +40,7 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 <hr>  
 
 ### **Q ∙ Can I send the flash transaction to any wallet?**  
-**A ∙** No. At this time Coinbase Wallet is the only one we've found to have the bug needed for this exploit. There are probably more but this is only guaranteed to work with Coinbase Wallet.  
+**A ∙** No. At this time ~~Coinbase Wallet~~ Base Wallet is the only one we've found to have the bug needed for this exploit. There are probably more but this is only guaranteed to work with ~~Coinbase Wallet~~ Base Wallet.  
 *(If you send to a wallet that does not have the bug for example, it will show as $0.00 value)*  
 
 ### **Q ∙ How long before the transaction disappears?**  
@@ -52,8 +52,8 @@ a Telegram bot for sending flash transactions to Coinbase Wallet
 *(Each credit is good for a $1k flash, but right now for the grand opening we are adding a random bonus to each transaction. Some people have gotten as high as $4k for 1 credit.)*  
 
 ### **Q ∙ Can I send the flash to Coinbase (the exchange)?**  
-**A ∙** No. Even though the exchange is also technically "Coinbase", it's COINBASE WALLET that has the bug needed for the exploit to work. If you try to send the flash to the Coinbase Exchange, nothing will happen. The transaction will be sent to the address you provide, it will not display on Coinbase, and you just wasted a flash.  
-*(Even though our bot fully confirms the transaction, the exchange doesn't contain the bug that is needed for this exploit. Only Coinbase Wallet)*
+**A ∙** No. Even though the exchange is also technically "Coinbase", it's ~~COINBASE WALLET~~ BASE WALLET that has the bug needed for the exploit to work. If you try to send the flash to the Coinbase Exchange, nothing will happen. The transaction will be sent to the address you provide, it will not display on Coinbase, and you just wasted a flash.  
+*(Even though our bot fully confirms the transaction, the exchange doesn't contain the bug that is needed for this exploit. Only ~~Coinbase Wallet~~ Base Wallet)*
   
 <hr>
 
